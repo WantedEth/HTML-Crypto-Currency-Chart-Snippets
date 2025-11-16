@@ -1,8 +1,6 @@
 # 💹 HTML Crypto Currency Chart Snippets 💹
 💹 Simple HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹
 
-![Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Stoch RSI](Images/Customizable
-
 ## [💹 Candlestick Chart with Indicators 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
 
 ![Crypto Currency Chart Cryptocurrencies Candle Candlestick with indicators TradingView API RSI Stoch](Images/Chart.png)
